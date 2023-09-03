@@ -23,3 +23,5 @@
 ![asdf](screenshots/screenshot11.png)
 ### 11. Создал ветку для отчёта 
 ![asdf](screenshots/screenshot12.png)
+### 12. Получил историю операций в форматированном виде 
+![asdf](screenshots/screenshot13.png)
